@@ -1,0 +1,1 @@
+class Checkers_piece():
